@@ -1,7 +1,4 @@
-Exercício Programa - 2019/1 - Design de Software
-------------------------------------------------
+Repositório correto no link abaixo:
+-----------------------------------
 
-Alunos: 
-- Fulano da Silva, fulanos@insper.edu.br
-- Sicrano de Almeida, sicranoa1@insper.edu.br
-
+Entre no seguinte repositório: https://github.com/GParfan/EP-01.git
